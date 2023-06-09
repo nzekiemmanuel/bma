@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topbar{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topbar ul{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topbar ul li{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icons ul{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation ul li{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation ul{
+    width: 95%;
+    margin: 3px;
+    padding: 3px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+   
+    
